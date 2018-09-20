@@ -1,0 +1,6 @@
+*.iml
+.idea/
+.DS_Store
+src/__pycache__/*
+out/
+test/__pycache__/*
